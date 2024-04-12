@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "projectdraft",
+			"path": "."
+		}
+	],
+	"settings": {
+		"cmake.configureOnOpen": true,
+		"cmake.sourceDirectory": "C:/Users/kat cantos/OneDrive/Desktop/Project/projectdraft/linux"
+	}
+}
