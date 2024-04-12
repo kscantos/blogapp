@@ -1,3 +1,3 @@
-# projectdraft
+# Warning: Blog App
 
-A new Flutter project.
+# Flutter final project for Elective 3.
